@@ -12,7 +12,7 @@
 - Fontawesome CDN
 
 ## LiveLink
-[LiveLink](https://igorkol91.github.io/RestorauntApi/dist/)
+[LiveLink](https://henrykc24.github.io/javascript-capstone-project/dist/)
 
 ### Video demo
 [VideoLink](https://drive.google.com/file/d/1ybLtxSC8SSCKpcN_FPnQ1OX328fvCrCK/view?usp=sharing)
@@ -23,7 +23,7 @@
 
 ### To get a local copy up and running follow these simple example steps.
 
-Clone the repo with `git clone https://github.com/igorkol91/RestorauntApi.git`
+Clone the repo with `git clone https://henrykc24.github.io/javascript-capstone-project.git`
 
 Run `cd RestorauntApi` to navigate to the project folder
 
@@ -56,7 +56,7 @@ Run `npm start` to start the local server in the a browser
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/igorkol91/RestorauntApi/issues).
+Feel free to check the [issues page](https://henrykc24.github.io/javascript-capstone-project/issues).
 
 ## Show your support
 

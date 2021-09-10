@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igorkol91/SimpsonQuotes.git"
+    "url": "git+https://henrykc24.github.io/javascript-capstone-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/igorkol91/SimpsonQuotes/issues"
+    "url": "https://henrykc24.github.io/javascript-capstone-project/issues"
   },
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.15.0",
@@ -37,7 +37,7 @@
     "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.2"
   },
-  "homepage": "https://github.com/igorkol91/SimpsonQuotes#readme",
+  "homepage": "https://henrykc24.github.io/javascript-capstone-project#readme",
   "dependencies": {
     "jsdom": "^16.7.0",
     "lodash": "^4.17.21"
