@@ -1,5 +1,6 @@
 const header = new Headers({ 'Content-type': 'application/json; charset=UTF-8' });
 const url = 'https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/apps/IvP42xNcmZ7sT5rp87wL/likes/';
+
 const showData = (data) => {
   data.forEach((element) => {
     const id = element.item_id;
@@ -25,5 +26,4 @@ const getLikes = async () => {
   showData(finalResult);
 };
 
-document.onload = getLikes();
 export { postLikes, getLikes };
