@@ -8,8 +8,8 @@ const postComment = async (body, url) => {
       },
     });
     return result;
-  } catch(e) {
-    return {ok: false};
+  } catch (e) {
+    return { ok: false };
   }
 };
 
