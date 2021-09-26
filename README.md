@@ -63,9 +63,9 @@ Feel free to check the [issues page](https://henrykc24.github.io/javascript-caps
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-TBA
+- A special thanks to Microverse for inspiring this project. We are indebted to you all at Microverse
+- A special thanks goes to all our peers at Microverse for being there for us throughout the app building period.
 
 ## 📝 License
 
-TBA
+This project is [MIT](./LICENSE) licensed.
