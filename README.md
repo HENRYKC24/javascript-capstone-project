@@ -1,6 +1,6 @@
 # RestorauntApi
 
-> The repo contains my javascript code for the Restoraunt Api project
+> This is a restaurant application for my JavaScript capstone project. It showcases different foods that can be liked and commented on. It uses an API to store likes and comments. It was developed with HTML, CSS, and JavaScript.
 
 ## Built With
 
