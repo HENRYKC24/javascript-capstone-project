@@ -11,6 +11,7 @@
 - Jest
 - Fontawesome CDN
 
+![screenshot](./src/assets/app_screenshot.png)
 ## LiveLink
 [LiveLink](https://henrykc24.github.io/javascript-capstone-project/dist/)
 
