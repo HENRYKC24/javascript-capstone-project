@@ -1,6 +1,6 @@
 # RestorauntApi
 
-> This is a restaurant application for my JavaScript capstone project. It showcases different foods that can be liked and commented on. It uses an API to store likes and comments. It was developed with HTML, CSS, and JavaScript.
+> This is a restaurant application for our JavaScript capstone project. It showcases different foods that can be liked and commented on. It uses an API to store likes and comments. It was developed as a group project by Igor from Macedonia and myself.
 
 ## Built With
 
